@@ -57,7 +57,7 @@
 			"type": "int",
 			"default": 1,
 			"min": -27,
-			"max": 34,
+			"max": 35,
 			"control": {
 				"arrows": true,
 				"slider": false
